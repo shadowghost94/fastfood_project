@@ -1,0 +1,26 @@
+ul{
+    list-style: none;
+    width: 100%;
+    margin: auto;
+}
+
+li{
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    border: 1px solid #000;
+    margin: 10px;
+    padding: Opx;
+    border-radius: 10px;
+    background-position: center;
+    position: relative;
+}
+
+#item1{
+    background-image: url(../images/1.jpg);
+}
+span{
+    font-size: 30px;
+}
